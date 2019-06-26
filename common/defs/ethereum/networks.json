@@ -347,5 +347,15 @@
     "rskip60": false,
     "url": "https://pirl.io",
     "blockbook": []
+  },
+  {
+    "chain": "etz",
+    "chain_id": 90,
+    "slip44": 60,
+    "shortcut": "ETZ",
+    "name": "EtherZero",
+    "rskip60": false,
+    "url": "https://etherzero.org",
+    "blockbook": []
   }
 ]
